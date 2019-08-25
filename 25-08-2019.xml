@@ -1,0 +1,2657 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+	<!-- generator="WordPress/5.2.2" created="2019-08-25 11:10" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>WPorb</title>
+	<link>https://wporb.com</link>
+	<description>WordPress Maintenance</description>
+	<pubDate>Sun, 25 Aug 2019 11:10:33 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://wporb.com</wp:base_site_url>
+	<wp:base_blog_url>https://wporb.com</wp:base_blog_url>
+
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[pejcic0001@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Stefan Pejcic]]></wp:author_display_name><wp:author_first_name><![CDATA[Stefan]]></wp:author_first_name><wp:author_last_name><![CDATA[Pejcic]]></wp:author_last_name></wp:author>
+
+				
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://wporb.com/wp-content/uploads/2019/05/cropped-orb-logo-square-270x270-70x70.png</url>
+	<title>WPorb</title>
+	<link>https://wporb.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+
+		<item>
+		<title>404 Page</title>
+		<link>https://wporb.com/glossary/404-page/</link>
+		<pubDate>Mon, 19 Aug 2019 20:54:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5444</guid>
+		<description></description>
+		<content:encoded><![CDATA[The number 404 is one of the status codes in the Hyper Text Transfer Protocol, or HTTP, which is the communication protocol used to transfer pages on the web. The definition of the 404 error code in the HTTP Status Code specification is the following:
+
+The server has not found anything matching the Request-URI. No indication is given of whether the condition is temporary or permanent. […] This status code is commonly used when the server does not wish to reveal exactly why the request has been refused, or when no other response is applicable.
+
+&nbsp;
+
+The 404 page commonly includes a short explanation of why the error page is displayed, a link back to the home page, and/or a search field.]]></content:encoded>
+		<excerpt:encoded><![CDATA[What happens when WordPress can't find the appropriate page for the URL you're trying to visit? It takes you to the 404 page.]]></excerpt:encoded>
+		<wp:post_id>5444</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-19 20:54:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-19 20:54:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[404-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Administration Bar</title>
+		<link>https://wporb.com/glossary/administration-bar/</link>
+		<pubDate>Mon, 19 Aug 2019 21:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5445</guid>
+		<description></description>
+		<content:encoded><![CDATA[It contains shortcuts to different parts of your site, along with notifications for comments and for when updates are available for plugins, themes and WordPress itself. Plugins and themes can also add custom links to the admin bar. For instance, if you have the localization plugin WPML installed, you can change your active editing language in the admin bar.
+
+As default, the admin bar is fixed to the top of your window when you’re viewing your site while logged in. You can disable that feature by going to Users → Your Profile, unchecking the “Show toolbar when viewing site” checkbox and clicking the blue “Update Profile” button at the bottom of the page. When you have done so, the admin bar will only be displayed when you’re viewing the administration panel.]]></content:encoded>
+		<excerpt:encoded><![CDATA[The administration bar is the menu displayed in the very top of your screen when you're logged in on your WordPress site.]]></excerpt:encoded>
+		<wp:post_id>5445</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-19 21:00:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-19 21:00:36]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[administration-bar]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Administration Panel</title>
+		<link>https://wporb.com/glossary/administration-panel/</link>
+		<pubDate>Sun, 25 Aug 2019 09:54:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5523</guid>
+		<description></description>
+		<content:encoded><![CDATA[That includes posts and pages, WordPress settings, installation and management of plugins and themes, and so on. You need to be logged in to view it, and how much of it you have access to is determined by your user role. Subscribers can only edit their own profile, while administrators can edit everything on the site – content as well as settings.
+
+By default, you can access the administration panel of your website by going to www.domain.com/wp-admin/ (replace domain.com with the domain name for your website).]]></content:encoded>
+		<excerpt:encoded><![CDATA[The administration panel is the control panel through which all of the content and settings on your site is handled.]]></excerpt:encoded>
+		<wp:post_id>5523</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 09:54:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 09:54:20]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[administration-panel]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Administrator</title>
+		<link>https://wporb.com/glossary/administrator/</link>
+		<pubDate>Sun, 25 Aug 2019 10:06:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5527</guid>
+		<description></description>
+		<content:encoded><![CDATA[A user with the administrator user role is capable of editing all content, plugins Plugin Plugins are used to extend WordPress with functionality that isn't included in the system itself or in the active theme. , themes, users and settings on a WordPress installation. They can add new users, delete the existing theme, add new plugins and make whatever changes they want to the content on the site.
+
+Because of their extensive capabilities, it’s a good idea to limit the number of administrator users on a WordPress installation to as few as possible. If a user only needs to edit content on the site, a less capable user role, like editor Editor Editor is one of the default user roles in WordPress, and like the name implies, its capabilities are geared for users with editorial oversight. , is a better choice. You should also take extra care with password strength and other security measures for administrator users.
+
+On multisites Multisite (MU) A WordPress Multisite, also known as a network site, is a collection of sites that all share the same WordPress installation. – networks consisting of multiple WordPress websites – there is one user role more capable than the administrator, and that is the super admin Super Admin Super Admin is a user role included on WordPress multisite (network) installations. . Super admins have the capability to add and delete sites from the network, in addition to having the same capabilities as administrators on each individual site. Regular administrators can manage all content and settings on network sites that they are assigned access to, but they can’t manage the network as a whole.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Administrator is one of the default user roles in WordPress, and it's the most capable of the five.]]></excerpt:encoded>
+		<wp:post_id>5527</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:06:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:06:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[administrator]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Akismet</title>
+		<link>https://wporb.com/glossary/akismet/</link>
+		<pubDate>Sun, 25 Aug 2019 10:07:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5528</guid>
+		<description></description>
+		<content:encoded><![CDATA[Akismet is used for detecting and filtering out spam in comments, trackbacks, pingbacks and contact form messages. The plugin was developed by WordPress co-creator Matt Mullenweg in 2005, when comment spam was a big problem in the WordPress ecosystem. It is owned and maintained by the company Automattic, which Matt Mullenweg founded a couple of months after Akismet launched. To date, Akismet has blocked more than 430 billion spam comments. It is one of only two plugins that come bundled with every WordPress installation. The other one is Hello Dolly.
+
+The way Akismet works is that it maintains a centralised database of spam comments. Whenever a comment is posted on a site with Akismet activated, the comment is checked against the central database to determine whether it is spam or not. If it doesn’t get flagged by Akismet, but is marked as spam manually by the site owner, it gets added to the database. The next time that comment is posted on a site with Akismet, it is flagged as spam automatically. That way, the spam filter gets more effective over time.
+
+Akismet is available in both free and commercial tiers. The free tier can be used by personal sites and blogs, while the commercial ones offer priority support and advanced stats and are meant for commercial websites.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Akismet is the most popular spam protection plugin for WordPress.]]></excerpt:encoded>
+		<wp:post_id>5528</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:07:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:07:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[akismet]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Archive</title>
+		<link>https://wporb.com/glossary/archive/</link>
+		<pubDate>Sun, 25 Aug 2019 10:08:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5529</guid>
+		<description></description>
+		<content:encoded><![CDATA[Some of the most common examples of archive pages in WordPress are category pages, tag pages, author archive pages and archive pages for different dates. Archive pages usually include the title of the archive (like “Author: Anders Norén”), a description of the archive if one exists, and the list of items included in the archive.
+
+As default, WordPress displays up to ten items per archive page. To see the rest of the items, the visitor would need to go to the next page in the pagination. The number of items per page can be adjusted by going to Settings → Reading in the administration panel and changing the value in the “Blog pages show at most” field.]]></content:encoded>
+		<excerpt:encoded><![CDATA[In WordPress, an archive page is any page that displays multiple items of a type of content.]]></excerpt:encoded>
+		<wp:post_id>5529</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:08:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:08:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[archive]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Attachment</title>
+		<link>https://wporb.com/glossary/attachment/</link>
+		<pubDate>Sun, 25 Aug 2019 10:10:13 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5530</guid>
+		<description></description>
+		<content:encoded><![CDATA[The word attachment refers to the fact that the file is “attached” to the post or page you’re editing when you upload the file. If a file is uploaded directly from the Media page in the WordPress administration panel Administration Panel The administration panel is the control panel through which all of the content and settings on your site is handled. , it is not attached to any particular post or page, and is technically not an attachment. The word “attachment” is occasionally used for those uploads as well, though. Some themes list all associated attachments on posts and pages. Others display the attached images as an image gallery. Most themes don’t display the attachments associated with a post or page at all, though.
+
+A file is detached from a post or page if that post or page is deleted. You can check if a file is attached to any particular post or page by clicking on the file in Media → Library. If it is, it will have a label called “Uploaded To” in the meta data, along with a link to the post or page it is attached to.]]></content:encoded>
+		<excerpt:encoded><![CDATA[An attachment is any file uploaded from within the "Add Media" modal when editing a post or page in WordPress.]]></excerpt:encoded>
+		<wp:post_id>5530</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:10:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:10:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[attachment]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Author</title>
+		<link>https://wporb.com/glossary/author/</link>
+		<pubDate>Sun, 25 Aug 2019 10:11:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5531</guid>
+		<description></description>
+		<content:encoded><![CDATA[A post created by the user “Anders” will have that user listed as its author, for instance. WordPress includes archives for authors of different content types. The default author archive for regular posts is www.website.com/author/username/. Posts usually display the name of the author on the template for single posts. When you’re logged in, you can see the author of each post in the “Author” table column when viewing Posts → All Posts. In the WordPress ecosystem, the word author can also refer to one of the five default user roles. A user role is used to define what capabilities a user has. Users with the author role can create, edit, publish and delete their own posts and pages, but they can’t edit content created by other users. They also can’t change the plugins, themes or settings on a WordPress site.]]></content:encoded>
+		<excerpt:encoded><![CDATA[In WordPress, the word "Author" refers both to the creator of content and to a user role.]]></excerpt:encoded>
+		<wp:post_id>5531</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:11:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:11:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[author]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Automattic</title>
+		<link>https://wporb.com/glossary/automattic/</link>
+		<pubDate>Sun, 25 Aug 2019 10:12:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5532</guid>
+		<description></description>
+		<content:encoded><![CDATA[The company was founded in August 2005 by Matt Mullenweg, co-creator of WordPress . As of May 2018, the company has 721 employees working from 62 different countries and speaking 81 different languages. The company is privately held and based in San Francisco, but their employees can work from anywhere.
+
+The most notable product offered by Automattic is the blog and website service WordPress.com, which was launched in beta form alongside Automattic itself in August 2005. The service was made available to the public in November the same year. Other products owned by Automattic include the anti-spam service Akismet Akismet Akismet is the most popular spam protection plugin for WordPress. , the e-commerce E-commerce E-commerce is the activity of buying and selling goods and services on the web. software WooCommerce, the WordPress plugin Jetpack, the avatar service Gravatar, and many others.
+
+Automattic is also one of the WordPress ecosystems biggest contributors to open source projects and non-profits, including WordPress itself, the WordPress Foundation and WordCamp WordCamp WordCamps are conferences focused on WordPress. They are arranged hundreds of times in dozens of countries each year. US.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Automattic is the company behind WordPress services like WordPress.com, WooCommerce, Akismet and Jetpack.]]></excerpt:encoded>
+		<wp:post_id>5532</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:12:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:12:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[automattic]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Automattic]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Automattic is the company behind WordPress services like WordPress.com, WooCommerce, Akismet and Jetpack.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Avatar</title>
+		<link>https://wporb.com/glossary/avatar/</link>
+		<pubDate>Sun, 25 Aug 2019 10:13:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5534</guid>
+		<description></description>
+		<content:encoded><![CDATA[By default, WordPress relies on the Gravatar service to display avatars for post and comment authors. Whether the avatars are displayed or not is determined by the theme you’re using. Gravatar is a centralized service where you can register with your email address and select an avatar. When you use your email on a website that has Gravatar support, the avatar you uploaded to Gravatar will be used by the site. Gravatar is owned by Automattic, and was added to WordPress in version 2.5, back in March 2008.
+
+If you or your users find it counterintuitive that you need to use a third-party website to manage your avatar, there are numerous WordPress plugins Plugin Plugins are used to extend WordPress with functionality that isn't included in the system itself or in the active theme. that replace Gravatar with the ability to upload avatars directly on your site. One of the most popular ones is the WP User Avatars plugin by John James Jacoby.]]></content:encoded>
+		<excerpt:encoded><![CDATA[An avatar is an image associated with a person. In WordPress, it's often displayed in connection to WordPress users or comment authors.]]></excerpt:encoded>
+		<wp:post_id>5534</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:13:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:13:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[avatar]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+		<wp:meta_value><![CDATA[avatar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[An avatar is an image associated with a person. In WordPress, it's often displayed in connection to WordPress users or comment authors.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Back-end</title>
+		<link>https://wporb.com/glossary/back-end/</link>
+		<pubDate>Sun, 25 Aug 2019 10:15:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5535</guid>
+		<description></description>
+		<content:encoded><![CDATA[The administration panel can only by accessed by logged-in users User User is the word used for an account on a WordPress site. , and depending on the user role of the user, he/she might not be able to access all parts of the administration panel. A user with the subscriber role, for instance, is only able to view and edit his/her own profile page.
+
+The opposite of the back-end of a website is the front-end, which refers to the parts of a WordPress site that are publicly accessible. That includes its front page, sub pages, blog archive, blog posts, and so on.
+
+Back-end can also be used as part of the job title “back-end developer”, which refers to a developer who is responsible for the core functional logic of an application, website or service. That includes communicating with the database to retrieve data, manipulating that data, and preparing the data for output on the site.]]></content:encoded>
+		<excerpt:encoded><![CDATA[In WordPress, the term "back-end" is usually used as a synonym to the administration panel.]]></excerpt:encoded>
+		<wp:post_id>5535</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:15:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:15:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[back-end]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
+		<wp:meta_value><![CDATA[back-end]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+		<wp:meta_value><![CDATA[In WordPress, the term "back-end" is usually used as a synonym to the administration panel.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
+		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>bbPress</title>
+		<link>https://wporb.com/glossary/bbpress/</link>
+		<pubDate>Sun, 25 Aug 2019 10:17:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5537</guid>
+		<description></description>
+		<content:encoded><![CDATA[bbPress allows you to create forums with subforums, threads and posts as part of your website. Setting it up is fast and easy, and it’s built to work seamlessly with WordPress. The base functionality in bbPress can be extended with bbPress plugins, and themes can include custom styling for forums and threads. The most recent major release of bbPress is version 2.5, which came out in 2013. It has received maintenance and security updates at a steady clip since then.
+
+bbPress was created because the forum software used for the WordPress.org support forums, miniBB, broke after a PHP upgrade. WordPress co-creator Matt Mullenweg decided that a replacement was needed, so just after Christmas 2004, he sat down to start working on the first version of bbPress. The early versions of bbPress existed side-by-side with WordPress, as separate content management systems, and couldn’t easily be installed on existing WordPress sites. In 2010, current project lead John James Jacoby took bbPress apart and put it back together as a proper WordPress plugin, which can be installed on any WordPress site.
+
+The most prominent user of bbPress is probably still the WordPress.org support forums, which has more than 2.5 million posts. Like WordPress itself, BuddyPress is released under the GNU General Public License ( GPL GNU General Public License (GPL) GNU GPL, short for The GNU General Public License, is a free software license used by WordPress, BuddyPress, bbPress and WooCommerce. ) version 2.]]></content:encoded>
+		<excerpt:encoded><![CDATA[bbPress is a plugin that adds forum management to your WordPress website.]]></excerpt:encoded>
+		<wp:post_id>5537</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:17:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:17:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bbpress]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Block</title>
+		<link>https://wporb.com/glossary/block/</link>
+		<pubDate>Sun, 25 Aug 2019 10:18:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5538</guid>
+		<description></description>
+		<content:encoded><![CDATA[When you create your post content in the block editor, you construct it out of blocks. All types of content are blocks in Gutenberg: Paragraph, Image, Heading, Gallery, List, Quote, Audio, and so on. The block editor makes it easy to add, remove and reposition blocks in the post layout. For instance, if you want to create a blog post with some text and images, you could add two paragraph blocks, followed by an image block, followed by a heading block, followed a couple of more paragraph blocks. If you want to move the image block, you can just drag and drop it to a new position in the layout.
+
+<img class="" src="https://wporb.com/wp-content/uploads/2019/08/editing-with-gutenberg-in-wordpress.png" width="815" height="510" />
+
+Most blocks come with settings allowing your to modify how the contents of the block should be presented. For example, you can change the paragraph alignment and text formatting in the paragraph block, set a caption and image size in the image block, add or remove table rows and columns in the table block, and so on.
+
+In addition to the blocks that come included with WordPress, more blocks can be added by the themes and plugins Plugin Plugins are used to extend WordPress with functionality that isn't included in the system itself or in the active theme. installed on your WordPress site. In the future, blocks will also replace widgets and menus in the WordPress interface.]]></content:encoded>
+		<excerpt:encoded><![CDATA[In Gutenberg, the new WordPress post editing experience, a block is a piece of content in the post editor.]]></excerpt:encoded>
+		<wp:post_id>5538</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:18:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:18:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[block]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Block Editor</title>
+		<link>https://wporb.com/glossary/block-editor/</link>
+		<pubDate>Sun, 25 Aug 2019 10:21:24 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5540</guid>
+		<description></description>
+		<content:encoded><![CDATA[WordPress 5.0 was released on December 6, 2018. When 5.0 is installed, it replaces the old post editor, which includes a visual mode Visual Editor In the visual editor, you can see a preview of how your content will look on the site while you're creating it. with real-time previews and a text editor that displays the HTML code of the post content, with the block editor. The block editor is the first revamp of the WordPress post editing experience since the inception of the content management system, and it introduces significant changes to how posts and pages are edited in WordPress.
+
+The block editor is built around the concept of blocks. Each element in the content of a page or post is a block – paragraphs of text, images, videos, blockquotes, lists, galleries, tables, and so on. Blocks can be added, deleted or moved around in the content, and each block has settings unique to the block type. In the image block, you can select which image to display, how to align it, and edit the caption. In the table block, you can add and delete table rows and columns. Eventually, blocks will be brought to other parts of the WordPress interface as well, replacing other elements like widgets and menus.
+
+If you want to reuse a certain block, you can save it as a shared block, after which you can add it with the click of a button on other posts and pages. You can give the editing experience a try on WordPress.org.
+
+<img class="" src="https://wporb.com/wp-content/uploads/2019/08/editing-with-gutenberg-in-wordpress.png" width="817" height="511" />
+
+The default blocks included with the block editor have the same capabilities as the formatting options currently included in WordPress, along with a bunch of new features that give users more control over the end result. The contextual settings for each block means that the block editor can provide additional settings without making the interface feel cluttered.
+
+The big difference between the block editor and the old editing experience in WordPress, in addition to the overall improvements in user experience, is that the block editor is built to be flexible and extendible so themes and plugins can add their own blocks with custom functionality and layout. For a company page, for instance, a theme could include a “Employee” block that can be added for each employee that should be listed on the page. Long term, the change to the block paradigm holds the promise of more dynamic page layouts across the board for WordPress websites.
+
+WordPress users who want to retain the existing editing experience can install the <a href="https://wordpress.org/plugins/classic-editor/">Classic Editor plugin</a>, which restores to old post editing experience. The plugin will be supported until at least December 31, 2020, but since blocks will play a big role in the future of WordPress, installing the Classic Editor plugin is not a long-term solution.]]></content:encoded>
+		<excerpt:encoded><![CDATA[The Block Editor, formerly known as Gutenberg, is the name of the new post editing experience released in WordPress 5.0.]]></excerpt:encoded>
+		<wp:post_id>5540</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:21:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:21:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[block-editor]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Blog</title>
+		<link>https://wporb.com/glossary/blog/</link>
+		<pubDate>Sun, 25 Aug 2019 10:22:23 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5541</guid>
+		<description></description>
+		<content:encoded><![CDATA[It’s the most common definition of the word, at least. As web publishing has evolved and gotten more diverse, it has become harder and harder to define exactly what a blog is. Many of the mainstream news sites display some of the content in a reverse chronological order, after all, and many sites that generally are classed as blogs – sites like <a href="https://kotaku.com/">Kotaku</a>, <a href="https://techcrunch.com/">TechCrunch</a> and <a href="http://www.tmz.com/">TMZ</a> – have areas where the content is not presented in reverse chronological order. There’s no clear line where blogs end and news sites start. Mostly, it’s a “you know it when you see it” sort of thing.
+
+As for the word itself, blog is an abbreviation of the word “weblog” – a combination of the word “web” and the word “log”. The word “weblog” was originally used by Jorn Barger, who posted frequent updates about his life and interests on the website “Robot Wisdom Weblog”. The shortened version of the word, “blog”, was first used by Peter Merholz who jokingly split the word “weblog” into “We blog” in the sidebar of his personal site. Not long after, developer and entrepreneur Evan Williams co-founded the blogging software <a href="http://blogger.com/">Blogger</a>, which helped popularize the term further.
+
+WordPress was originally conceived as a management system for blogs. Over the years, it has been updated with features that makes it as viable as a CMS as it is as a blogging engine, but it’s still a popular choice for people who just want somewhere to jot down their thoughts every now and then. When you create a new WordPress installation, it will default to displaying the blog archive on your front page. You can change the front page to a static page in <strong>Settings → Reading</strong>, and when you do, you can select another page to use as the primary archive page for blog posts.]]></content:encoded>
+		<excerpt:encoded><![CDATA[A blog is a list of posts arranged in reverse chronological order, with the most recent post first and the oldest one last.]]></excerpt:encoded>
+		<wp:post_id>5541</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:22:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:22:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>BuddyPress</title>
+		<link>https://wporb.com/glossary/buddypress/</link>
+		<pubDate>Sun, 25 Aug 2019 10:24:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5543</guid>
+		<description></description>
+		<content:encoded><![CDATA[The plugin includes activity streams similar to the Facebook timeline, profile pages for members of the network, user groups that allow you to create micro communities within the network, notifications for updates, private messaging with individuals or several members at once, and much more. BuddyPress can also be extended with additional functionality through plugins, and themes can customize the default styling of the plugin.
+
+The BuddyPress project was originally started by developer <a href="https://apeatling.com/">Andy Peatling</a> back in 2008. He sold it to Automattic, the company behind WordPress.com, in 2008, and they owned BuddyPress until 2010, when they released the rights to the BuddyPress trademark to the WordPress Foundation. They still contribute resources towards its continued development, and Andy Peatling works at Automattic as Product Lead.
+
+Like WordPress itself, BuddyPress is released under the GNU General Public License (GPL) version 2.]]></content:encoded>
+		<excerpt:encoded><![CDATA[BuddyPress is a plugin that allows you to transform a WordPress installation into a social network.]]></excerpt:encoded>
+		<wp:post_id>5543</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:24:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:24:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[buddypress]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Breadcrumbs</title>
+		<link>https://wporb.com/glossary/breadcrumbs/</link>
+		<pubDate>Sun, 25 Aug 2019 10:23:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5544</guid>
+		<description></description>
+		<content:encoded><![CDATA[If you have a <a href="https://www.wpglossary.net/word/page/" data-word-id="29">page</a> that is the child page of a different page, for instance, the breadcrumbs would probably look something like this when you’re viewing the child page:
+
+Home → Parent Page → <strong>Child Page</strong>
+
+Breadcrumbs are frequently, but not always, included in WordPress themes. When they are, they’re usually displayed in conjunction with the page title, near the top of the page. There are also WordPress plugins that allow you to customize and output breadcrumbs on your site.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Breadcrumbs are a type of navigational element that displays the hierarchy of the current web page.]]></excerpt:encoded>
+		<wp:post_id>5544</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:23:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:23:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[breadcrumbs]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Cache</title>
+		<link>https://wporb.com/glossary/cache/</link>
+		<pubDate>Sun, 25 Aug 2019 10:27:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5545</guid>
+		<description></description>
+		<content:encoded><![CDATA[If you visit a WordPress WordPress WordPress is the worlds most popular content management system for websites. website that isn’t using cache, the website server reads the files in the WordPress installation and fetches the data stored in the database – posts, settings, and so on. It then constructs a HTML file from that data and serves it to your browser. Reading all of the data, and building the HTML, takes both time and processing power, and without cache, it’s repeated every time the website is loaded. If a website has multiple visitors at a time, the server can be bogged down and load times reduced.
+
+If that same website was using a caching solution, the HTML would only be only generated on the first visit to a specific page, and then stored on the server. The next time a visitor comes to that same page, the server gives the visitor the HTML file stored on the server from the previous visit to the page. This results in faster load speeds for the visitor, and in less strain on the server. The cache is refreshed when the content of the page is updated, or when a specified amount of time has passed.
+
+This type of caching is called server caching, since the cache is stored on the server. The other type is browser caching, which is when browsers store and reuse files included on your website, rather than downloading them from the server every time a page is loaded. This is most commonly used for CSS stylesheets, JavaScript files and images.
+
+WordPress doesn’t have a caching solution built in, but there are numerous plugins that offer that functionality. One of the most popular caching plugins is WP Super Cache, which is developed by Automattic and used on WP Glossary.]]></content:encoded>
+		<excerpt:encoded><![CDATA[On the web, cache – pronounced ”cash” – is temporarily stored data used to speed up the load times of web pages.]]></excerpt:encoded>
+		<wp:post_id>5545</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:27:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:27:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cache]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Default Themes</title>
+		<link>https://wporb.com/?post_type=glossary&#038;p=5564</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5564</guid>
+		<description></description>
+		<content:encoded><![CDATA[Currently, the three most recent default themes are included in each installation of WordPress, and it’s the most recent one – <a href="https://wordpress.org/themes/twentyseventeen/">Twenty Seventeen</a> – that is active when you first create your WordPress site. Default themes older than the three most recent ones can still be downloaded and installed from the <a href="http://www.wordpress.org/themes/">WordPress.org Theme Directory</a>, but they don’t come bundled with the system.
+
+The default themes are the first themes many WordPress users encounter. A lot of people use them as they are – the default themes have always been some of the most popular ones in the WordPress ecosystem, and for good reason. Most of them are really good. Others customize them with their own colors and fonts, or even create child themes to enable more comprehensive changes. For developers, the default themes serve as good examples on how to get the most out of the latest WordPress features.
+
+To date, ten default themes have been released for WordPress. Let’s take a trip down memory lane and go through all of them, from the earliest to the most recent. All of them are still available for download, and most of them have been kept up to date with features that have been added to WordPress over the years.
+
+<img class="" src="https://www.wpglossary.net/wp-content/uploads/2018/05/wordpress-classic-wordpress-theme.jpg" width="819" height="512" />
+<h3>Classic — 2004</h3>
+It’s a common misconception that Kubrick (see below) is the first WordPress theme, but it was actually preceeded by <a href="https://wordpress.org/themes/classic/">Classic</a> by one year. Classic was not only the default theme up until the release of WordPress 1.5 – it was the only theme. As you might have guessed, it wasn’t called Classic back then. It didn’t have public facing name at all – it was just the way the  WordPress front-end looked.
+
+It wasn’t until version 1.5 that themes were introduced, and up to that point, WordPress users had the option of either using the design that WordPress came with or make changes directly to the system files. Neither option was particularly appealing, which leads us to WordPress 1.5, the introduction of the template system and a theme that makes me all warm on the inside every time I look at it.
+
+<img class="alignnone wp-image-540 " src="https://www.wpglossary.net/wp-content/uploads/2018/05/kubrick-wordpress-theme.jpg" alt="" width="819" height="512" />
+<h3>Default (Kubrick) — 2005</h3>
+<a href="https://wordpress.org/themes/default/">Default</a>, or Kubrick as it is better known, was the WordPress theme many of us used on our very first WordPress website. Hardly surprising, considering that Kubrick was the default theme in WordPress for five whole years. It was released in version 1.5, and remained the default theme up until WordPress 3.0.
+
+Kubricks iconic blue gradient header and rounded corners were cutting edge back in 2005, and the theme still holds a special place in many WordPress users’ hearts. Considering that it is close to 15 years old, it has aged surprisingly well.
+
+<img class="alignnone wp-image-546 " src="https://www.wpglossary.net/wp-content/uploads/2018/05/twentyten-wordpress-theme.jpg" alt="" width="819" height="512" />
+<h3>Twenty Ten — 2010</h3>
+Still, a lot of advancements were made by both WordPress and web development overall in those five years, and when WordPress 3.0 rolled around, it was past time for a new default theme. That theme, <a href="https://wordpress.org/themes/twentyten/">Twenty Ten</a>, was the start of WordPress plan to release a new default theme every year – a schedule that they’ve mostly stuck to since then.
+
+Twenty Ten replaced the blue gradient header of Kubrick with the new header image functionality – a reflection of the changing times, since it would’ve seemed pretty wasteful to spend all that bandwidth on big imagery when Kubrick was new. Twenty Ten was also the first default theme to be translation-ready.
+
+<img class="alignnone wp-image-541 " src="https://www.wpglossary.net/wp-content/uploads/2018/05/twentyeleven-wordpress-theme.jpg" alt="" width="820" height="513" />
+<h3>Twenty Eleven — 2011</h3>
+<a href="https://wordpress.org/themes/twentyeleven/">Twenty Eleven</a> picked up where Twenty Ten left off, with a familiar layout (title up top, header image and horizontal menu, content and sidebar) and a similar aesthetic. It did include a small concession to people who were tired of the white backgrounds: a dark mode, which inverted the color scheme.
+
+The biggest addition in Twenty Eleven by far was that it was responsive – it adopted its width to the width of the device it is viewed on. The iPhone had been out for a couple of years, and mobile web browsing was starting to become a thing. Twenty Eleven was the first of the default WordPress themes to be ready for it.
+
+<img class="alignnone wp-image-548 " src="https://www.wpglossary.net/wp-content/uploads/2018/05/twentytwelve-wordpress-theme.jpg" alt="" width="820" height="513" />
+<h3>Twenty Twelve — 2012</h3>
+By 2012, WordPress was trying to outgrow it’s reputation as a blogging engine and eager to prove itself as a proper content management system. Those goals were reflected in the new default theme introduced in WordPress 3.5, Twenty Twelve, which included a page template for the front page and a full-width template. The extra page templates made it useful not only as a blogging theme, but also for corporate sites of the simpler variety.
+
+Thanks to the advent of web font technologies like <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face">@font-face</a>, Twenty Twelve was also the first of the default themes to include an embedded font: <a href="https://fonts.google.com/specimen/Open+Sans">Open Sans</a>. A year later, Open Sans would also make its way into the administration panel of WordPress.
+
+<img class="alignnone wp-image-547 " src="https://www.wpglossary.net/wp-content/uploads/2018/05/twentythirteen-wordpress-theme.jpg" alt="" width="819" height="512" />
+<h3>Twenty Thirteen — 2013</h3>
+Up until this point, the default themes included in WordPress stuck pretty closely to the aesthetic introduced by Twenty Ten: Clean design, crisp typography and conservative color schemes that gave photographies center stage. All that changed with <a href="https://wordpress.org/themes/twentythirteen/">Twenty Thirteen</a>. If any of the default themes in WordPress can be called controversial, Twenty Thirteen is the one.
+
+The most eye-catching thing about Twenty Thirteen is its colors, with a vibrant default header image and different background colors for each post format. It was quite a departure from Twenty Twelve, and not just in terms of colors. Twenty Thirteen also took a step back towards the classic blog structure, with a single-column layout on the front page that puts the posts squarely in the center.
+
+<a href="https://www.wpglossary.net/wp-content/uploads/2018/05/twentyfourteen-wordpress-theme.jpg"><img class="alignnone  wp-image-543" src="https://www.wpglossary.net/wp-content/uploads/2018/05/twentyfourteen-wordpress-theme.jpg" alt="" width="820" height="513" /></a>
+<h3>Twenty Fourteen — 2014</h3>
+The default themes experimental years continued with <a href="https://wordpress.org/themes/twentyfourteen/">Twenty Fourteen</a>, which took the default theme in more of a magazine direction. A wide layout with a small sidebar gave ample space to big imagery, and Twenty Fourteen was the first of the default themes to rely heavily on featured images in its design.
+
+Good use of widget areas made Twenty Fourteen very flexible, and it remains a popular choice for magazine websites to this day. It’s still used on more than 300,000 websites.
+
+<img class="alignnone  wp-image-542" src="https://www.wpglossary.net/wp-content/uploads/2018/05/twentyfifteen-wordpress-theme.jpg" alt="" width="819" height="512" />
+<h3>Twenty Fifteen — 2015</h3>
+After the color explosion of Twenty Thirteen and the expansive magazine layout of Twenty Fourteen, it was nice to see the default theme take a step back to its blogging roots with <a href="https://wordpress.org/themes/twentyfifteen/">Twenty Fifteen</a>. With its simple sidebar layout, crisp typography and grayscale color scheme, Twenty Fifteen was refreshingly straight-forward. Nothing about it is especially remarkable, really – it’s just a really nice theme.
+
+To this day, Twenty Fifteen remains a really good choice if you want a simple blog theme for your website. As demonstrated by the website of the <a href="https://wordpressfoundation.org/">WordPress Foundation</a>, it doesn’t take a lot to really make it shine.
+
+<img class="alignnone  wp-image-545" src="https://www.wpglossary.net/wp-content/uploads/2018/05/twentysixteen-wordpress-theme.jpg" alt="" width="822" height="514" />
+<h3>Twenty Sixteen — 2016</h3>
+The emphasis on blogging continued with <a href="https://wordpress.org/themes/twentysixteen/">Twenty Sixteen</a>, which dusted off the classic layout of Twenty Ten/Eleven/Twelve and gave it a new coat of paint. Well-considered typography, the ability to choose different color schemes in the <a href="https://www.wpglossary.net/word/customizer/" data-word-id="197">Customizer</a>and a solid responsive design makes Twenty Seventeen a worthy successor to the original Twenty themes.
+
+<a href="https://wp-themes.com/twentysixteen/">Live preview of Twenty Sixteen</a>
+
+<img class="alignnone size-full wp-image-544" src="https://www.wpglossary.net/wp-content/uploads/2018/05/twentyseventeen-wordpress-theme.jpg" alt="" width="2880" height="1800" />
+<h3>Twenty Seventeen — 2017</h3>
+The most recent default theme in WordPress could also be my favorite. Rather than focusing on either making a theme for blogs or making a theme for corporate sites, <a href="https://sv.wordpress.org/themes/twentyseventeen/">Twenty Seventeen</a> decided to both – and pulls it off with flair. Good use of settings in the <a href="https://www.wpglossary.net/word/customizer/" data-word-id="197">customizer</a>, nicely laid out page templates and fantastic use of the typeface Franklin Gothic makes Twenty Seventeen a theme that puts most premium themes to shame. In 2017 and onwards, you could do a lot worse than to stick with the default theme in WordPress.
+
+<a href="https://wp-themes.com/twentyseventeen/">Live preview of Twenty Seventeen</a>]]></content:encoded>
+		<excerpt:encoded><![CDATA[The default theme is the theme that is active on your WordPress site when you first set it up.]]></excerpt:encoded>
+		<wp:post_id>5564</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:52:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Editor Styles</title>
+		<link>https://wporb.com/?post_type=glossary&#038;p=5572</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5572</guid>
+		<description></description>
+		<content:encoded><![CDATA[Editor Styles serve a aesthetic purpose, by making the <a href="https://www.wpglossary.net/word/visual-editor/" data-word-id="105">visual editor</a> more pleasing to look at, but they also give the person creating the <span class="word-preview-wrapper preview-loaded"><a href="https://www.wpglossary.net/word/post/" data-word-id="37">post</a></span>
+<div class="word-preview-content"><header class="position-relative">
+<h3 class="word-preview-title"><a class="word-preview" href="https://www.wpglossary.net/word/post/">Post</a></h3>
+</header>
+<p class="word-preview-text"><a class="word-preview" href="https://www.wpglossary.net/word/post/">A post is a type of content that is generally presented in a inverted chronological order, with the most recently published post first.</a></p>
+
+</div>
+or <a href="https://www.wpglossary.net/word/page/" data-word-id="29">page</a> a better idea of how the content will look when it is published. For example, without editor styles, titles that are displayed on a single line in the visual editor might end up line breaking on the site because the font and font size are different.
+<figure id="attachment_1054" class="wp-caption alignnone" style="width: 819px;"><img class=" wp-image-1054" src="https://www.wpglossary.net/wp-content/uploads/2018/09/wordpress-admin-editor-styles.jpg" sizes="(max-width: 1980px) 100vw, 1980px" srcset="https://www.wpglossary.net/wp-content/uploads/2018/09/wordpress-admin-editor-styles.jpg 1980w, https://www.wpglossary.net/wp-content/uploads/2018/09/wordpress-admin-editor-styles-300x188.jpg 300w, https://www.wpglossary.net/wp-content/uploads/2018/09/wordpress-admin-editor-styles-768x480.jpg 768w, https://www.wpglossary.net/wp-content/uploads/2018/09/wordpress-admin-editor-styles-1024x640.jpg 1024w, https://www.wpglossary.net/wp-content/uploads/2018/09/wordpress-admin-editor-styles-980x613.jpg 980w" alt="" width="819" height="512" /><figcaption class="wp-caption-text">This is how the WP Glossary Visual Editor looks with editor styles applied.</figcaption></figure>
+By default, the visual editor in <a href="https://www.wpglossary.net/word/wordpress/" data-word-id="53">WordPress</a> is set in the serif font Georgia and has dark blue link colors. The WP Glossary editor styles replaces Georgia with the macOS system font San Francisco, and changes the link color to purple, in order to match the design of the site.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Editor Styles are styles added by a theme to make content in the Visual Editor resemble how the theme presents content to visitors.]]></excerpt:encoded>
+		<wp:post_id>5572</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 11:00:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Category</title>
+		<link>https://wporb.com/glossary/category/</link>
+		<pubDate>Sun, 25 Aug 2019 10:30:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5546</guid>
+		<description></description>
+		<content:encoded><![CDATA[The other included taxonomy in WordPress is tags. Posts can belong to multiple categories, and they must have at least one category set. Posts published without a category selected are automatically added to the “Uncategorized” category by WordPress. When a post is included in a category, it is displayed on the archive page Archive In WordPress, an archive page is any page that displays multiple items of a type of content. for that category. The categories that a post belongs to are usually displayed on the post as well. If and how they are displayed vary from theme to theme.
+
+Categories are hierarchical, which means that each category can have subcategories. A news site could for example have the following category structure:
+<ul>
+ 	<li>International
+<ul>
+ 	<li>Asia</li>
+ 	<li>Europe</li>
+ 	<li>North America</li>
+</ul>
+</li>
+ 	<li>National
+<ul>
+ 	<li>Business</li>
+ 	<li>Politics</li>
+ 	<li>Tech</li>
+</ul>
+</li>
+ 	<li>Sports
+<ul>
+ 	<li>Basketball</li>
+ 	<li>Ice Hockey</li>
+ 	<li>Soccer</li>
+</ul>
+</li>
+</ul>
+In the example above, a post with the “Basketball” child category would also be displayed while viewing the archive page for the “Sports” parent category. You can edit categories in <strong>Posts → Categories</strong>.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Categories is one of two included taxonomies in WordPress, and it is used to sort posts by subject.]]></excerpt:encoded>
+		<wp:post_id>5546</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:30:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:30:28]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[category]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Child Theme</title>
+		<link>https://wporb.com/glossary/child-theme/</link>
+		<pubDate>Sun, 25 Aug 2019 10:31:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5547</guid>
+		<description></description>
+		<content:encoded><![CDATA[The theme that the child theme inherits its functionality and styling from is called a <span class="word-preview-wrapper preview-loaded">parent theme</span>. The parent theme must be installed on the site for the child theme to function. A child theme can be used to customize the styling of the parent theme, add new functionality to it or make other changes that are limited enough in scope that you’d rather not create a new theme from scratch.
+
+Using a child theme is the recommended way to make changes to a WordPress theme that you have installed from WordPress.org or from a third-party theme vendor. If you make changes directly to a theme from WordPress.org, for instance, those changes would get overwritten the next time the theme is updated. If you instead make your changes in a child theme, the changes will remain when the parent theme is updated.
+
+If you only want to make changes to the styling of your theme, a good alternative to developing a child theme is to use the WordPress Customizer.]]></content:encoded>
+		<excerpt:encoded><![CDATA[A child theme is a WordPress theme that inherits styling and functionality from another theme installed on your WordPress site.]]></excerpt:encoded>
+		<wp:post_id>5547</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:31:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:31:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[child-theme]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Classic Editor</title>
+		<link>https://wporb.com/glossary/post-editor/</link>
+		<pubDate>Sun, 25 Aug 2019 10:32:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5548</guid>
+		<description></description>
+		<content:encoded><![CDATA[The post editor is displayed directly beneath the title of your post or page when you’re editing it in the administration panel. It comes in two flavors:
+<ul>
+ 	<li>The visual editor, which allows you to format your content by clicking buttons and selecting text styles, similar to a traditional text editor like Word or Pages. It also gives you a preview of how the content will look when it is published.</li>
+ 	<li>The text editor, which displays the content as HTML code and has a limited set of buttons for adding elements. It can be more difficult to handle for people who are not used to writing HTML, but it gives you more control over the final result.</li>
+</ul>
+You can switch between the two modes by clicking the tabs in the top right corner of the editor: “Visual” and “Text”. When in the visual mode, you can also enter the “Distraction free mode” by clicking the fullscreen button beneath the tabs. When in that mode, everything but the post editor is hidden, allowing you to focus on your writing.
+
+With the release of WordPress 5.0, the old post editor was replaced with the block editor, which constitutes the biggest change to the WordPress editing experience since the system was launched. The block editor allows you to construct the content of your posts and pages by building it with blocks. Blocks can contain headings, paragraphs of text, images, quotes, and so on. Blocks can easily be added, removed and edited to create more engaging page layouts, and custom blocks can be added by themes and plugins.]]></content:encoded>
+		<excerpt:encoded><![CDATA[The post editor, also known as the Classic Editor, is the tool used to write content in WordPress versions older than WordPress 5.0.]]></excerpt:encoded>
+		<wp:post_id>5548</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:32:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:32:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[post-editor]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Comment</title>
+		<link>https://wporb.com/glossary/comment/</link>
+		<pubDate>Sun, 25 Aug 2019 10:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5549</guid>
+		<description></description>
+		<content:encoded><![CDATA[Comments are directly attached to different types of content, like a post or a page, and are handled through WordPress built-in comment system as default. Not all WordPress themes support them, though. Most themes that support comments also allow visitors to reply to each others comments. Comments with responses are displayed in a nested thread, with the original comment (the one that was responded to) at the top level. Depending on your theme, the comment section of your site might also display pingbacks and trackbacks.
+
+You can view and edit comments on your site by clicking <strong>Comments</strong> in the left sidebar on the administration panel, and adjust settings for the comments in <strong>Settings → Discussion</strong>. In the settings, you can select whether comments need to be approved before they are published on the site, if you should get an email notification when a new comment is submitted, and activate and deactivate the comment function for the entire site. As default, each comment must be manually approved before it’s displayed on the site.
+
+You can also activate and deactivate comments for a specific post or page by opening the post/page in the administration panel, clicking the “Screen Settings” in the top right, marking “Discussion” as checked, scrolling down to the bottom of the page and checking/unchecking the “Allow Comments” checkbox.
+
+If you are having problems with comment spam on your website, you can give the spam protection plugin <span class="word-preview-wrapper preview-loaded">Akismet</span> a try. It is included with every WordPress installation, and its spam filters will prevent most spam comments from getting published on your site.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Comments give your users the ability to communicate with you and other visitors on your website.]]></excerpt:encoded>
+		<wp:post_id>5549</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:34:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:34:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[comment]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Contect Management System (CMS)</title>
+		<link>https://wporb.com/glossary/contect-management-system-cms/</link>
+		<pubDate>Sun, 25 Aug 2019 10:35:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5551</guid>
+		<description></description>
+		<content:encoded><![CDATA[Content management systems (CMS) comes in all shapes and sizes, with a wide variety of features. Most of them offer an interface for editing content and manage settings for one or multiple connected websites, and most of them are collaborative in nature.
+
+The most popular CMS for managing websites is WordPress, which as of 2018 holds about 30% of the market share. Other popular CMSs include <a href="https://www.joomla.org/">Joomla</a>, <a href="https://www.drupal.org/">Drupal</a> and the e-commerce system <a href="https://magento.com/">Magento</a>, although none of them come close to WordPress in market share.]]></content:encoded>
+		<excerpt:encoded><![CDATA[A content management system is a system through which you create, manage and publish digital content.]]></excerpt:encoded>
+		<wp:post_id>5551</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:35:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:35:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contect-management-system-cms]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Contributor</title>
+		<link>https://wporb.com/glossary/contributor/</link>
+		<pubDate>Sun, 25 Aug 2019 10:35:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5553</guid>
+		<description></description>
+		<content:encoded><![CDATA[Contributors can create and save drafts of posts, but they can’t publish them on their own. A user with a more capable user role, like <span class="word-preview-wrapper preview-loaded">Editor. </span><span style="letter-spacing: 0px;">Editor is one of the default user roles in WordPress, and like the name implies, its capabilities are geared for users with editorial oversight.</span>
+
+or Administrator, must publish the posts. They can only view and edit content that they are authors of, meaning that when they’re logged in, they will only be able to see their own posts in the <strong>Posts</strong> admin page.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Contributor is one of the default user roles in WordPress, and one of the least capable ones.]]></excerpt:encoded>
+		<wp:post_id>5553</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:35:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:35:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contributor]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Cookie</title>
+		<link>https://wporb.com/glossary/cookie/</link>
+		<pubDate>Sun, 25 Aug 2019 10:37:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5554</guid>
+		<description></description>
+		<content:encoded><![CDATA[<iframe src="https://www.youtube.com/embed/I01XMRo2ESg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+A common usecase for cookies is to store visitor settings to the visitors browser, so they remain in effect during the entire visit (and for the next visit, depending on the duration of the cookie). WordPress uses a number of different cookies to enhance the user experience. When a visitor logs in, a cookie is stored with the login details to keep the user logged in until he or she chooses to log out.
+
+Cookies are also stored when a non-logged-in visitor posts a comment, so that visitor won’t need to retype their information the next time he or she wants to post a comment. As of WordPress version 4.9.6, which introduced functionality meant to make WordPress GDPR compliant, the comment form has a checkbox that the visitor can check if he or she wants their comment details to be stored.]]></content:encoded>
+		<excerpt:encoded><![CDATA[A cookie is a small, text-based data file that a website can ask to store in a visitors computer.]]></excerpt:encoded>
+		<wp:post_id>5554</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:37:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:37:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cookie]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_e0ab2743366bafc01ef0375856e3c0d4]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="What is a cookie?" width="825" height="464" src="https://www.youtube.com/embed/I01XMRo2ESg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_e0ab2743366bafc01ef0375856e3c0d4]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1566729412]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_c0f13b3b6b4a56b0143d920a3de3b975]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="What is a cookie?" width="1170" height="658" src="https://www.youtube.com/embed/I01XMRo2ESg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_c0f13b3b6b4a56b0143d920a3de3b975]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1566729428]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_d195bc6a607e3bb759660f04e51a482e]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="What is a cookie?" width="829" height="466" src="https://www.youtube.com/embed/I01XMRo2ESg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_d195bc6a607e3bb759660f04e51a482e]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1566729448]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Core</title>
+		<link>https://wporb.com/glossary/core/</link>
+		<pubDate>Sun, 25 Aug 2019 10:38:16 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5555</guid>
+		<description></description>
+		<content:encoded><![CDATA[While ”WordPress” might refer to the WordPress ecosystem overall, including themes, plugins and other types of extensions, ”Core” refers to the files that power the actual WordPress system software and come included in every download of WordPress. It’s a developer term, and not something most WordPress users need to be concerned with.
+
+The WordPress Core development team is the group of developers that contribute new features and bug fixes to the WordPress system software. Anyone can contribute to the development of WordPress by visiting the <a href="https://make.wordpress.org/core/">Make WordPress Core page</a> on <a href="https://www.wordpress.org/">WordPress.org</a> and submit bug reports and code patches.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Core is a common nickname for the main WordPress software – the files that actually power the WordPress content management system.]]></excerpt:encoded>
+		<wp:post_id>5555</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:38:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:38:16]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[core]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Creative Commons</title>
+		<link>https://wporb.com/glossary/creative-commons/</link>
+		<pubDate>Sun, 25 Aug 2019 10:41:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5556</guid>
+		<description></description>
+		<content:encoded><![CDATA[<iframe width="853" height="480" src="https://www.youtube.com/embed/dPZTh2NKTm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+It does so by providing a number of different licenses that content creators can use to indicate the terms under which content is made available. The licenses range from complete public domain, which allow anyone to use the content for anything, to licenses that only allow non-commercial use, to licenses that allow use with attribution to the original source.
+
+Creative Commons has a step-by-step guide that you can follow to decide which license to use for your works. WP Glossary, for instance, is licensed under the Creative Commons Attribution 4.0 International, abbreviated CC BY 4.0. Under that license, you’re free to share and modify the content however you want, as long as you give appropriate attribution to the source of the content.
+
+Creative Commons was founded in 2001 by law professor Lawrence Lessig.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Creative Commons is a nonprofit dedicated to increasing the number of cultural works in the public domain.]]></excerpt:encoded>
+		<wp:post_id>5556</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:41:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:41:53]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[creative-commons]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>CSS</title>
+		<link>https://wporb.com/glossary/css/</link>
+		<pubDate>Sun, 25 Aug 2019 10:43:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5557</guid>
+		<description></description>
+		<content:encoded><![CDATA[<iframe src="https://www.youtube.com/embed/0afZj1G0BIE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+CSS is used to define how elements on web pages look, and can be used to define the styling of everything from layout to typography and colors. It’s an abbreviation for Cascading Style Sheets, which refers to the priority scheme which governs how CSS code gets applied to elements.
+
+This is an example of a CSS code block:
+<pre>p {
+	color: red;
+	font-size: 16px;
+	margin-bottom: 20px;
+}</pre>
+This code block consists of the element selector, “p”, the declaration block indicated by opening and closing curly brackets, and the properties defined within them. The element selector matches a HTML element. In this case, the “p” selector matches a HTML text paragraph element. The properties within the curly brackets set the color, the text size and the bottom spacing of the paragraph element.
+
+In WordPress, CSS is primarily used by themes to define the layout and styling of your website. You can add your own CSS styles to your website by using the WordPress customizer, which has a Additional CSS panel that allows you to add custom styles.]]></content:encoded>
+		<excerpt:encoded><![CDATA[CSS is the programming language used to define the styling of most websites on the web.]]></excerpt:encoded>
+		<wp:post_id>5557</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:43:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:43:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[css]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Custom Post Type</title>
+		<link>https://wporb.com/glossary/custom-post-type/</link>
+		<pubDate>Sun, 25 Aug 2019 10:44:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5558</guid>
+		<description></description>
+		<content:encoded><![CDATA[The default user-facing post types in WordPress are page, post and attachment. There are others, but they aren’t exposed to the user in the same way. Custom post types can be used for pretty much anything: recipes, reviews, products, orders, contact forms, words in a glossary… Yes, this page is a post within a custom post type, called <code>wpglossary_word</code>.
+
+By using a custom post type for the glossary words on this site, I could add a blog section to it later using the standard “post” post type, if I wanted to. It also gives me more control over how to structure the words. Different post types can have different features, settings, permalink structures and taxonomies. They can also be displayed differently by the active theme.
+
+Custom post types can be added by both themes and plugins, but it is considered best practice to add custom post types in plugins. This is to prevent you from losing your data when you switch themes.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Custom post type refers to any post type that isn't included as default in WordPress.]]></excerpt:encoded>
+		<wp:post_id>5558</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:44:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:44:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[custom-post-type]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Customizer</title>
+		<link>https://wporb.com/glossary/customizer/</link>
+		<pubDate>Sun, 25 Aug 2019 10:45:52 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5559</guid>
+		<description></description>
+		<content:encoded><![CDATA[<iframe width="853" height="480" src="https://www.youtube.com/embed/qJxkpCXnIzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+On desktop, the customizer has a preview of the website on the right and the customizer settings panel on the left. You can preview the site in different screen sizes by clicking the device icons in the bottom right of the settings panel. On mobile, the customizer settings panel is full-screen, and you can click the “Preview”-button in the top to show a preview of the site.
+
+As default, the following settings are included in the WordPress customizer:
+<ul>
+ 	<li>Active theme</li>
+ 	<li>Menus (if the theme has menu areas)</li>
+ 	<li>Widgets (if the theme supports widgets)</li>
+ 	<li>Homepage settings (what to display on the home page)</li>
+ 	<li>Additional CSS</li>
+</ul>
+More features can be added to the Customizer by themes and plugins. The big benefit of the customizer is that you can preview your changes, which makes it more pedagogical than editing your menus through <strong>Appearance → Menus</strong> or widgets through <strong>Appearance → Widgets</strong>. The customizer was introduced to WordPress in version 3.4, released in June 2012.]]></content:encoded>
+		<excerpt:encoded><![CDATA[The customizer is a WordPress tool that gives you control over the appearance of different aspects of your WordPress site.]]></excerpt:encoded>
+		<wp:post_id>5559</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:45:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:45:52]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[customizer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Dashboard</title>
+		<link>https://wporb.com/glossary/dashboard/</link>
+		<pubDate>Sun, 25 Aug 2019 10:46:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5560</guid>
+		<description></description>
+		<content:encoded><![CDATA[The dashboard gives you an overview for your site, a shortcut for creating a new post and information about upcoming WordPress events and news in your area. The blocks displayed in the main view of the dashboard are called widgets. By default, five widgets are included in WordPress:
+<ul>
+ 	<li><strong>At a Glace:</strong> The number of posts, pages and comments on your site, with links to each content type in the administration panel. The text in the bottom of it tells you which version of WordPress you’re running and the name of your theme.</li>
+ 	<li><strong>Activity:</strong> Information about upcoming scheduled posts, recently published posts and comments on your site.</li>
+ 	<li><strong>Quick Draft:</strong> A title box and a content box that can be used when you quickly want to save an idea for a post.</li>
+ 	<li><strong>Welcome:</strong> Shortcuts for getting you started, displayed the first time a user logs in to his or her account.</li>
+ 	<li><strong>WordPress News:</strong> Displays information about WordPress events coming up near you, as well as links to the latest posts on the <a href="https://wordpress.org/news/">official WordPress news blog</a>.</li>
+</ul>
+Additional widgets can be added by themes and plugins. If you have the Stats module in Jetpack active, for instance, Jetpack will add a widget with a overview for your visitors over the past couple of days. You can find additional dashboard widgets on the <a href="https://wordpress.org/plugins/search/dashboard+widget/">WordPress.org plugin directory</a>.]]></content:encoded>
+		<excerpt:encoded><![CDATA[The dashboard is the first screen you see when you log in to the administration panel of your WordPress site.]]></excerpt:encoded>
+		<wp:post_id>5560</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:46:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:46:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dashboard]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Database</title>
+		<link>https://wporb.com/glossary/database/</link>
+		<pubDate>Sun, 25 Aug 2019 10:49:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5563</guid>
+		<description></description>
+		<content:encoded><![CDATA[<iframe src="https://www.youtube.com/embed/FR4QIeZaPeM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<span style="letter-spacing: 0px;">In WordPress all information contained in </span><span style="letter-spacing: 0px;">posts</span><span style="letter-spacing: 0px;">, </span><span style="letter-spacing: 0px;">pages</span><span style="letter-spacing: 0px;">, </span><span style="letter-spacing: 0px;">categories</span><span style="letter-spacing: 0px;"> and </span><span style="letter-spacing: 0px;">tags</span><span style="letter-spacing: 0px;"> are stored in a database, as is information about settings and </span><span style="letter-spacing: 0px;">users</span><span style="letter-spacing: 0px;">. The data is organized in different parts of the database called tables, and each table has different table columns that the table can be sorted by.</span>
+
+For instance, when a visitor views your <a href="https://www.wpglossary.net/word/blog/" data-word-id="729">blog</a>, WordPress asks the database to return information about your latest posts. The posts are stored in a table called <code>wp_posts</code>, and that table has a column called <code>post_date</code>. WordPress queries the database for ten rows in the <code>wp_posts</code> table sorted by the <code>post_date</code> column, formats those ten posts in the way specified by the active theme, and returns the result to the browser as HTML. Unless a caching solution is used, a database query similar to the one described above occurs every time you visit a page on a WordPress site.
+
+WordPress uses a database management system called MySQL. In order to install WordPress, you need to point the WordPress installation to a MySQL database that WordPress can use to store data.]]></content:encoded>
+		<excerpt:encoded><![CDATA[A database is a data structure used to store, organize and retrieve different types of data.]]></excerpt:encoded>
+		<wp:post_id>5563</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:49:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:49:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[database]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Domain Name</title>
+		<link>https://wporb.com/glossary/domain-name/</link>
+		<pubDate>Sun, 25 Aug 2019 10:55:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5568</guid>
+		<description></description>
+		<content:encoded><![CDATA[They can be described as nicknames of servers, since their purpose is to make web addresses easier to remember than the numerical addresses most Internet Protocols use to identify services. The numerical address is called an IP – Internet Protocol – address. The domain name for this website is&nbsp;wporb.com.&nbsp;When you enter the domain name into your browser address bar and hit enter, the domain name gets resolved to the IP address for the server the site is hosted on, which your browser then connects to.
+If you’re running a self-hosted&nbsp;WordPress&nbsp;site, you can use it with a domain name by registering one through the&nbsp;web host your site is hosted on.&nbsp;WordPress.com&nbsp;also offers domain registration for users of their service. Domain names are renewed and paid for annually, and the most common ones, like&nbsp;.com&nbsp;and&nbsp;.net, usually cost around $10 per year.]]></content:encoded>
+		<excerpt:encoded><![CDATA[A domain name is a string of characters that identify a resource on the Internet, like a website or service.]]></excerpt:encoded>
+		<wp:post_id>5568</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:55:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:55:37]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[domain-name]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[eael_transient_elements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Draft</title>
+		<link>https://wporb.com/glossary/draft/</link>
+		<pubDate>Sun, 25 Aug 2019 10:56:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5569</guid>
+		<description></description>
+		<content:encoded><![CDATA[If you want to save your content without making it publicly available on the website, you can choose to save it with the draft <span class="word-preview-wrapper preview-loaded">post status</span>. That way, you can come back to it later when you want to make more changes to it or publish it. Content saved as drafts can be previewed by logged in users with access to it without the content being visible to visitors on the site.
+
+You can set a post or page as a draft in the “Publish” meta box when you’re editing it. When you’re ready to publish it and make it publicly available, click the blue “Publish” button.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Draft is one of the post statuses included in WordPress. Post statuses are used to set the visibility of posts on a website.]]></excerpt:encoded>
+		<wp:post_id>5569</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:56:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:56:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[draft]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>E-commerce</title>
+		<link>https://wporb.com/glossary/e-commerce/</link>
+		<pubDate>Sun, 25 Aug 2019 10:58:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5570</guid>
+		<description></description>
+		<content:encoded><![CDATA[As of 2018, e-commerce constituted 11.5% of all retail spending worldwide, and it’s a number that is only expected to grow in the future. WordPress does not have e-commerce functionality built-in, but there are a plethora of plugins that add e-commerce functionality to WordPress. The most popular one is WooCommerce, which is owned by the company Automattic, founded by WordPress co-creator Matt Mullenweg.
+
+Other e-commerce solutions include <a href="https://www.shopify.com/">Shopify</a>, <a href="https://magento.com/">Magento </a>and <a href="https://www.bigcartel.com/">Big Cartel</a>. Unlike WooCommerce, which is built on top of WordPress, all of them are stand-alone solutions built specifically for e-commerce. They might be easier to set up and get started with, but they don’t have the flexibility of a site built on top of WordPress.]]></content:encoded>
+		<excerpt:encoded><![CDATA[E-commerce is the activity of buying and selling goods and services on the web.]]></excerpt:encoded>
+		<wp:post_id>5570</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:58:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:58:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[e-commerce]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Editor</title>
+		<link>https://wporb.com/glossary/editor/</link>
+		<pubDate>Sun, 25 Aug 2019 10:59:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5571</guid>
+		<description></description>
+		<content:encoded><![CDATA[Editors can view, edit, publish and delete all content on a website, regardless of the original author. If a post has been saved as pending by a user with the contributor <a href="https://www.wpglossary.net/word/user-role/" data-word-id="49">user role</a>, who can’t publish content on their own, a user with the editor role can publish that pending post. In addition to editing content, editors can also manage categories, tags and other taxonomies on the site. Since editors can delete content created by other users, you should only assign this user role to people who you trust to handle that responsibility.
+
+The only standard user role more capable than editor is administrator. Users with the administrator user role have the same access to content and taxonomies as editors, but they can also change all settings on the site. On <span class="word-preview-wrapper preview-loaded">multisite </span>installations of WordPress, the super admin also has more wide-reaching capabilities than the editor.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Editor is one of the default user roles in WordPress, and like the name implies, its capabilities are geared for users with editorial oversight.]]></excerpt:encoded>
+		<wp:post_id>5571</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 10:59:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 10:59:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[editor]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Excerpt</title>
+		<link>https://wporb.com/glossary/excerpt/</link>
+		<pubDate>Sun, 25 Aug 2019 11:05:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5577</guid>
+		<description></description>
+		<content:encoded><![CDATA[It’s usually displayed on archive pages in conjunction with your post. The excerpt is entered in a meta field labeled ”Excerpt”, which is displayed close to the bottom of the screen when you’re editing a post. If you can’t see the field, scroll to the top of the page, click the <span class="word-preview-wrapper preview-loaded">Screen Options</span> button and make sure that ”Excerpt” is checked in the ”Boxes” group. If you haven’t written a manual excerpt for your post, and your active <a href="https://www.wpglossary.net/word/theme/" data-word-id="45">theme</a> displays excerpts as part of its design, WordPress will generate an automatic excerpt from the first paragraphs of your post content and show that instead.
+
+Only posts support excerpts out of the box in WordPress, but themes and <a href="https://www.wpglossary.net/word/plugin/" data-word-id="35">plugins</a> can add excerpt support to pages and custom post types. The RSS feed of a WordPress site can be set to only display the excerpt for posts, rather than the full content, by going to <strong>Settings → Reading</strong>, finding the ”For each article in a feed, show” setting and selecting ”Summary”.]]></content:encoded>
+		<excerpt:encoded><![CDATA[An excerpt is a short, hand-written summary of a post on your website.]]></excerpt:encoded>
+		<wp:post_id>5577</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 11:05:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 11:05:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[excerpt]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Export</title>
+		<link>https://wporb.com/glossary/export/</link>
+		<pubDate>Sun, 25 Aug 2019 11:10:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://wporb.com/?post_type=glossary&#038;p=5579</guid>
+		<description></description>
+		<content:encoded><![CDATA[For example, if you have two different WordPress sites and only want to use one of them going forward, you can export the contents of one of the sites and import it to the other site. The Export page can be found at <strong>Tools → Export</strong> when you’re logged in on the administration panel on your site.
+<h3>Exporting Content</h3>
+Go to <strong>Tools → Export</strong>. Select which content you want to include in the export file – all of it, or only a specific content type (like posts or pages). Next, click the blue ”Download Export File” button. Your browser will now download a file with the file suffix ”.xml”. This file contains a copy of all of the content you chose to export from the site.
+
+Next, log in to the administration panel of the site you want to import the content to. Go to <strong>Tools → Import</strong>, locate “WordPress” in the list, and click the “Install Now” link. When the WordPress Importer plugin has been installed, the link will be replaced by a “Run Importer” link. Click it.
+
+On the next page, select the exported “.xml” file in the file dialog. Next, click the blue “Upload file and import” button. When the upload is completed, you’ll be presented with a couple of options for the import. Choose if you want to create new users to use as authors of the imported content, or if it should be assigned to an existing user. You can also choose to download and import file attachments by checking the corresponding checkbox. If you don’t, the featured i<a href="https://www.wpglossary.net/word/featured-image/" data-word-id="21">mages</a> used on the imported posts and pages will not be included in the import.
+
+When you’re done with the settings, click the gray ”Submit” button. Keep the page open until the import has concluded. When it has, the posts, pages and media files included in the export file will have been added to your site.]]></content:encoded>
+		<excerpt:encoded><![CDATA[On the Export page in the WordPress admin, you can create a file with your content that can be imported to a different WordPress site.]]></excerpt:encoded>
+		<wp:post_id>5579</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-25 11:10:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-25 11:10:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[export]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[glossary]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_tweet_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[custom_post_permalink]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpweb_tw_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[title] - [link]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_glossary_cat]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_awac_hide_widget]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+				</channel>
+</rss>
+	
